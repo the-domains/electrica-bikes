@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.21498763072304428
 name: Electrica Bikes
+navigation:
+  - name: Electrica Bikes
+    url: 'http://electricabikes.com'
+    type: external
 title: ELECTRICA
 description: electric bikes
