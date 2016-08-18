@@ -1,4 +1,3 @@
-layout_spectrum: 0.21498763072304428
 typography_spectrum: 0.36195798381231725
 color:
   brandStrength: 0.08499778062105179
@@ -6,9 +5,11 @@ color:
   saturation: 0.1392968730069697
   rhythmicContrast: 0.3948791141156107
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.21498763072304428
 name: Electrica Bikes
+title: ELECTRICA
